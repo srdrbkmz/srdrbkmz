@@ -3,7 +3,7 @@
 - 🌱 Currently learning: Expanding my knowledge in Node.js, React, Python, databases, networking and web development
 - 💼 Education: Digitalization & IT Management
 - 🔨 Current Projects
-  - 🏭 ERP System with React & Node.js (In Progress)
+  - 🏭 ERP System with React & Flask (In Progress)
   - 🎥 Streaming Platform with Node.js (Planned)
   - 🛒 E-Commerce System with Node.js (Planned)
 
