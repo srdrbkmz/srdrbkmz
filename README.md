@@ -1,16 +1,11 @@
-## Hi there 👋
+- 👋 Hi, I’m @srdrbkmz!
+- 👀 Interests: Digitalization of business and work processes, automation, and efficient IT solutions
+- 🌱 Currently learning: Expanding my knowledge in Node.js, React, Python, databases, networking and web development
+- 💼 Education: Digitalization & IT Management
+- 🔨 Current Projects
+  - 🏭 ERP System with React & Node.js (In Progress)
+  - 🎥 Streaming Platform with Node.js (Planned)
+  - 🛒 E-Commerce System with Node.js (Planned)
 
-<!--
-**srdrbkmz/srdrbkmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✅ Finished Projects
+  - 📦 Inventory Management System with Python
